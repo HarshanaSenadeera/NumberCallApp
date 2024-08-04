@@ -18,7 +18,7 @@ const Login = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Image source={require('../../assets/bb.png')} style={styles.backgroundImage} />
+      <Image source={require('../../assets/cat.jpg')} style={styles.backgroundImage} />
       <View style={styles.overlay}>
         <Text style={styles.title}>Welcome Back</Text>
         <TextInput
